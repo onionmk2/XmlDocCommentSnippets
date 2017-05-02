@@ -6,8 +6,7 @@
 1. open VisualStudio 
 1. choose `Tools` > `Code Snippets Manager `
 1. press `Add` button 
-1  select your `XmlDocCommentSnippets` directory
-
+1. select your `XmlDocCommentSnippets` directory
 
 # how to use
 
